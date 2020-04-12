@@ -8,7 +8,7 @@ merupakan aplikasi untuk memenegment stok barang di sebuah apotek
   
   Pastikan python dan pip bisa dijalankan di cmd/terminal. (https://datatofish.com/add-python-to-windows-path/)
 # cara pakai 
-  - jalan kan main.py
+  - jalan kan stokinventoryapotekk.py
   - login dengan akun admin:123
 
 # Fitur 

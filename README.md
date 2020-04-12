@@ -11,7 +11,7 @@ merupakan aplikasi untuk memenegment stok barang di sebuah apotek
   jalan kan main.py
   login dengan akun admin:123
 
-# Fitur
+# Fitur 
   Mengecek ketersediaan stok barang
   melaporkan barang masuk dan barang keluar perhari
   mengupdate stok barang

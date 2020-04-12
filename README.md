@@ -12,10 +12,10 @@ merupakan aplikasi untuk memenegment stok barang di sebuah apotek
   login dengan akun admin:123
 
 # Fitur 
-  Mengecek ketersediaan stok barang
-  melaporkan barang masuk dan barang keluar perhari
-  mengupdate stok barang
-  mengirim request stok barang baru
+  > Mengecek ketersediaan stok barang
+  > melaporkan barang masuk dan barang keluar perhari
+  > mengupdate stok barang
+  > mengirim request stok barang baru
 
 # video
 https://youtu.be/tNl_44zn28E
